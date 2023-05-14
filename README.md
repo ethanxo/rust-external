@@ -1,2 +1,2 @@
 # rust-external
-old, nowhere near done; some classes set up properly (maybe? outdated? idk)
+old, nowhere near done; just memory functions in place, may actually work on this one day (maybe? outdated? idk)
